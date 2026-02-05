@@ -1,5 +1,5 @@
 # ForestStructureAnalysis
-ML-based forest structure analysis and classification with Random Forest, Decision Tree, and KNN.
+ML-based forest structure analysis and classification with Random Forest, Decision Tree, and KNN. Created using Google Colab Notebook.
 
 ## Overview
 The dataset contains information on tree inventory, height, diameter at breast height (DBH), and crown measurements from 30 plots in the Tapajos National Forest, Para, Brazil, collected in September 2010. The plots are categorized into primary forests, selectively logged primary forests, and secondary forests with varying ages and disturbance histories. Out of the 50 x 50-meter plots, eight were in primary forests, eight in logged primary forests, and fourteen in secondary forests. Trees with a diameter of 5 cm or more in early successional stands and 10 cm or more in other stands were measured and identified. DBH was measured to the nearest 0.1 cm, while heights and crown depths were visually estimated using a laser rangefinder. Crown radius was measured in two directions. The Tapajos National Forest is located about 50 km south of Santarem, Pará, along highway BR-163. The study utilizes a comma-separated (.csv) file containing the inventory and biometric measurements of trees.
